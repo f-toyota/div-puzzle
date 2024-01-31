@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+margin: 0;
+}
+.flex {
+display: flex;
+}
+.red--box {
+width: 400px;
+height: 100px;
+background: red;
+}
+.green--box {
+float: left;
+width: 150px;
+height: 250px;
+background: green;
+}
+.blue--box {
+
+width: 400px;
+height: 250px;
+background: blue;
+}
+.yellow--box {
+  width: 400px;
+  height: 100px;
+  background: yellow;
+  }
