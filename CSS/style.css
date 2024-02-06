@@ -2,8 +2,8 @@
 body {
 margin: 0;
 }
-.flex {
-display: flex;
+.float {
+display: float;
 }
 .red--box {
 width: 400px;
